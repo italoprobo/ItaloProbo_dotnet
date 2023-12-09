@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "otilio-dotnet", "otilio-dotnet.csproj", "{199B76B2-1AF3-477F-BDB9-F7080F8E837F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199B76B2-1AF3-477F-BDB9-F7080F8E837F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199B76B2-1AF3-477F-BDB9-F7080F8E837F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199B76B2-1AF3-477F-BDB9-F7080F8E837F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199B76B2-1AF3-477F-BDB9-F7080F8E837F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BEDB61-CE6C-4530-AFC1-7C04402FA904}
+	EndGlobalSection
+EndGlobal
